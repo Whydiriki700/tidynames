@@ -1,3 +1,5 @@
+![tidynames](assets/preview.png)
+
 # tidynames
 
 Renaming 300 photos one by one is misery. tidynames renames a whole folder
